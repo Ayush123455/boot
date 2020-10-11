@@ -1,0 +1,65 @@
+.lic-logo{
+    width: 100px;
+    padding-top: 5px;
+    padding-left: 5px;
+}
+.nav-link{
+    margin: 0px 12px;
+    
+}
+#nav-h{
+   
+   color: white; 
+   font-size: 20px;
+   font-weight: 300px;
+}
+#nav-as{
+    color: white;
+    font-size: 20px;
+   font-weight: 300px;
+}
+#cs{
+    color: white;
+    font-size: 20px;
+   font-weight: 300px;
+}
+
+
+
+.nav-item:hover{
+   background-color: rgb(40, 133, 253);
+}
+.navbar-brand{
+    padding-right: 800px;
+}
+.card{
+    margin-left: 20px;
+    margin-top: 30px;
+    border-radius: 100px;
+    margin-right: 0px;
+
+    
+   
+    
+}
+.card-body{
+   
+    margin-left: 10px;
+    font-size: 20px;
+    margin-bottom: 30px;
+    
+}
+
+.card1{
+    margin-right: 20px;
+    margin-top: 30px;
+    border-radius: 10px;
+    
+}
+.card1:hover{
+    border: 2px solid black;
+    
+}
+.card:hover{
+    border: 2px solid black;
+}
